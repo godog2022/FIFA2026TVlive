@@ -14,7 +14,7 @@ Telemundo,#genre#
 Telemundo 01,http://89.187.179.148:826/anto.j/c9yJDcXyPe/109764
 Telemundo 02,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110009
 
-TSN,#genre#
+TSN & CTV,#genre#
 TSN 4K CA,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 TSN1 CA 01,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1621
 TSN1 CA 02,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
@@ -26,8 +26,6 @@ TSN3 CA,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1623
 TSN4 CA,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1624
 TSN5 CA,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1625
 TSN 4K,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866
-
-CTV,#genre#
 CTV CA,http://89.187.179.148:826/anto.j/c9yJDcXyPe/36917
 
 BBC UK,#genre#
@@ -47,12 +45,12 @@ ITV1 UK 05,http://x88tv.co/942126879465/526468117856/279001
 ITV1 UK 06,http://hanaiptv.com:8080/eStGiLLACr/Ns3Y47v3rb/1985
 ITV4 UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
 
-M6 FR,#genre#
+Europe TV,#genre#
 M6 FR,http://vpn.usxk.xyz/sqSC8712/SvUt4481/1149246
-
-Germany TV,#genre#
 Das Erste DE,http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/4659
 ZDF DE,http://29047.performservers.cz/ozant/1sj8i79hk3/230138
+
+Fussball TV,#genre#
 Fussball TV 1 4K DE,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465825
 Fussball TV 2 4K DE,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465822
 Fussball TV 3 4K DE,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465809
@@ -80,13 +78,13 @@ NOW Sports 617 4K,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
 NOW Sports 618,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
 NOW Sports 619,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
 
-Extra Channels,#genre#
-Extra 01,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465842
-Extra 02,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465845
-Extra 03,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465848
-Extra 04,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465855
-Extra 05,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465856
-Extra 06,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465858
-Extra 07,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465859
-Extra 08,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465873
-Extra 09,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465875
+Other Sports,#genre#
+Stream 465842,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465842
+Stream 465845,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465845
+Stream 465848,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465848
+Stream 465855,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465855
+Stream 465856,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465856
+Stream 465858,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465858
+Stream 465859,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465859
+Stream 465873,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465873
+Stream 465875,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465875
